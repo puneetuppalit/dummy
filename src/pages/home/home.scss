@@ -1,0 +1,26 @@
+page-home {
+
+	#wrapper {
+		padding: 10px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+  	    border: 1px solid black;
+  		display: flex;
+  		align-items: center;
+  		justify-content: center;
+	}
+
+	button {
+  		height: 20px;
+  		width: 100px;
+	}
+
+	.button-sign{
+           
+            background:#000000;
+            display:block !important;
+            -webkit-box-shadow: 2px 5px 19px -9px rgba(0,0,0,0.75);
+            -moz-box-shadow: 2px 5px 19px -9px rgba(0,0,0,0.75);
+            box-shadow: 2px 5px 19px -9px rgba(0,0,0,0.75);
+          }
+}
